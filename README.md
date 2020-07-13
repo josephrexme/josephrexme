@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe height="484" style="width: 100%;" scrolling="no" title="Spooky Headless Wizard" src="https://codepen.io/josephrexme/embed/mMjvRR?height=484&theme-id=light&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/josephrexme/pen/mMjvRR'>Spooky Headless Wizard</a> by Joseph Rex
-  (<a href='https://codepen.io/josephrexme'>@josephrexme</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<svg>
+  <circle cx="50" cy="50" r="50" fill="#f00" />
+</svg>
