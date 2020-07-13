@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p class="codepen" data-height="484" data-theme-id="light" data-default-tab="result" data-user="josephrexme" data-slug-hash="mMjvRR" style="height: 484px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spooky Headless Wizard">
+  <span>See the Pen <a href="https://codepen.io/josephrexme/pen/mMjvRR">
+  Spooky Headless Wizard</a> by Joseph Rex (<a href="https://codepen.io/josephrexme">@josephrexme</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
