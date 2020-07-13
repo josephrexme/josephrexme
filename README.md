@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<svg>
-  <circle cx="50" cy="50" r="50" fill="#f00" />
+<svg xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="50" fill="#ff0000" />
 </svg>
