@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Running](https://raw.githubusercontent.com/josephrexme/josephrexme/main/static/wolf.gif)
+![Running](https://raw.githubusercontent.com/josephrexme/josephrexme/main/static/pet.gif)
 
 
 </div>
