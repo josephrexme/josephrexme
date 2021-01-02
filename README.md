@@ -1,5 +1,3 @@
-### Hey human!
-
 <!--
 **josephrexme/josephrexme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Running](https://raw.githubusercontent.com/josephrexme/josephrexme/main/static/pet.gif)
+[![Joseph Rex Banner](https://raw.githubusercontent.com/josephrexme/josephrexme/main/static/jr-header.svg)](https://josephrex.me)
 
 
 </div>
