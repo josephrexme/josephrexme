@@ -1,0 +1,34 @@
+<svg viewBox="0 0 2494 866" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="Gradient1" x1="0" y1="0" x2="100%" y2="0">
+      <stop offset="0%" id="stop-start" />
+      <stop offset="100%" id="stop-end" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#Gradient1)" d="M.006-.004h2493.888v865.908H.006z"/>
+  <path d="M.004 432.95L2493.899 0v865.9L.004 432.951z" fill="#131313"/>
+  <text fill="#fff" font-size="40" font-family="'ProFont for powerline', monospace" x="290" y="700">@JOSEPHREXME</text>
+  <text fill="#fff" font-size="30" textLength="1280" font-family="'ProFont for powerline', monospace" x="1100" y="400">"Knowledge is a process of piling up facts, wisdom lies in their simplification"
+    <tspan dy="45" x="1100">- Martin H. Fischer</tspan>
+  </text>
+  <path d="M371.34 486.082H303.14v47.884s-67.588 12-68.202-29.697c-.614-40.887 35.124-46.928 63.655-47.742 23.984-.684 265.985 0 265.985 0s78.022 5.37 79.569-86.389c1.478-88.233-68.475-96.692-77.295-97.788-22.325-2.774-127.31 0-127.31 0v95.515h68.201V331.49s68.635-10.019 68.202 29.555c-.432 38.659-48.24 32.755-68.202 34.1-19.96 1.346-240.977 0-240.977 0s-98.892-.079-100.03 100.03c-.727 64.369 47.924 102.571 104.576 99.42 2.137-.12 100.03 0 100.03 0V486.081z" fill="#fff"/>
+  <path fill="none" stroke="#fff" stroke-width="2.2" d="M1210 310h30v48.132h-30z" transform="matrix(2.27338 0 0 2.2734 -2311.25 -219.582)"/>
+  <path d="M1270 357.811h30.01L1290 302s-3.76 7.627-27 9c-.34-.485 7 46.811 7 46.811zm-90-142.367V259h-30v-21h-30v-22.556h60z" fill="none" stroke="#fff" stroke-width="2.2" transform="matrix(2.27338 0 0 2.2734 -2311.25 -218.672)"/>
+  <style type="text/css">
+    #stop-start{
+      --alternate-color: #23000a;
+      stop-color: #110b14;
+      animation: roll-color 2s linear infinite both alternate-reverse;
+    }
+    #stop-end{
+      --alternate-color: #30365e;
+      stop-color: #1b1d23;
+      animation: roll-color 2s linear infinite both alternate-reverse;
+    }
+    @keyframes roll-color{
+      to{
+        stop-color: var(--alternate-color)
+      }
+    }
+  </style>
+</svg>
